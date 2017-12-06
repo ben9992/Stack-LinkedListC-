@@ -10,6 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            LinkedList L;
+            Node N;
+            Stack S;
         }
     }
 }
